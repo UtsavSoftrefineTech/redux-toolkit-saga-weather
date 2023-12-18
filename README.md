@@ -57,7 +57,7 @@ Get your local copy up and running in a few simple steps:
 
 ## Demo
 
-Explore the live demo of the Redux Saga Weather app: [Redux Saga Weather Demo](https://your-demo-link.com)
+Explore the live demo of the Redux Saga Weather app: [Redux Saga Weather Demo](https://redux-toolkit-saga-weather.netlify.app/)
 
 ## Contact
 
